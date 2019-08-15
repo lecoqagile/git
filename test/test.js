@@ -7,4 +7,4 @@ const sayMyName = (name = '') => {
 };
 
 whatsYourJob('florist');
-sayMyName('John')
+sayMyName('John');
